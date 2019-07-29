@@ -50,3 +50,8 @@ li:hover {
 ul > *.done {
   text-decoration: line-through;
 }
+
+input::placeholder {
+  position: relative;
+  left: 40px;
+}
