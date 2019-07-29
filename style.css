@@ -47,6 +47,6 @@ li:hover {
     -30px 20px 40px dimgrey;
 }
 
-.done {
+ul > *.done {
   text-decoration: line-through;
 }
